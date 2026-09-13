@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4C4C&height=120&section=header&text=Christopher%20Mulenga&fontSize=40&fontColor=EAEAEA&fontAlignY=38&desc=Founder%20%40%20Otrava%20Technologies%20%7C%20ICT%20Educator%20%7C%20Network%20Technology%20Student&descSize=14&descAlignY=60&descColor=EAEAEA&animation=fadeIn" alt="Christopher Mulenga — Founder at Otrava Technologies, ICT Educator, Network Technology Student" />
 
 <!-- TYPING HEADLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF4C4C&center=true&vCenter=true&width=820&height=40&lines=Building+digital+solutions+from+Lusaka%2C+Zambia.;Teaching+ICT+to+visually+impaired+learners+with+JAWS.;Studying+Network+Technology+%40+ICU+Zambia.;Turning+ideas+into+real+things+people+can+use." alt="Christopher Mulenga — what I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF4C4C&center=true&vCenter=true&width=820&height=40&lines=Building+digital+solutions+from+Lusaka%2C+Zambia.;Teaching+ICT+using+Assistive+Tech.;Studeded+Computer+Science+at+Evelyn+Hone.;Studying+Network+Technology+%40+ICU+Zambia.;Turning+ideas+into+real+things+people+can+use." alt="Christopher Mulenga — what I do" />
 
 <!-- SOCIAL BADGES -->
 <br/>
